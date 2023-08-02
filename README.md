@@ -1,7 +1,7 @@
 # My Django Blog Website
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-django-blog-repo)
+
 
 ## About
 
