@@ -11,10 +11,6 @@ The main features of the blog include user authentication, creating, editing, an
 
 This project was created with the intention of learning Django and exploring the possibilities of combining it with Tailwind CSS to create a visually appealing blog website.
 
-## Demo
-
-You can see a live demo of the blog at: [Your Demo Link](https://your-demo-link.com)
-
 ## Getting Started
 
 To run My Django Blog Website locally, follow these steps:
